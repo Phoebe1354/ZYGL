@@ -40,7 +40,7 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:410px;
+  left:524px;
   top:98px;
   width:98px;
   height:56px;
@@ -50,7 +50,7 @@
 #u3 {
   border-width:0px;
   position:absolute;
-  left:524px;
+  left:643px;
   top:98px;
   width:98px;
   height:56px;
@@ -60,7 +60,7 @@
 #u4 {
   border-width:0px;
   position:absolute;
-  left:643px;
+  left:763px;
   top:98px;
   width:98px;
   height:56px;
@@ -70,7 +70,7 @@
 #u5 {
   border-width:0px;
   position:absolute;
-  left:763px;
+  left:900px;
   top:98px;
   width:98px;
   height:56px;
@@ -80,20 +80,20 @@
 #u6 {
   border-width:0px;
   position:absolute;
-  left:900px;
-  top:98px;
-  width:98px;
-  height:56px;
+  left:1139px;
+  top:324px;
+  width:184px;
+  height:61px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
 #u7 {
   border-width:0px;
   position:absolute;
-  left:1139px;
-  top:324px;
-  width:184px;
-  height:61px;
+  left:1018px;
+  top:90px;
+  width:100px;
+  height:56px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
