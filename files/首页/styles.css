@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1440px;
+  width:1555px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -23,7 +23,7 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:115px;
   top:0px;
   width:1440px;
   height:2220px;
@@ -84,6 +84,16 @@
   top:98px;
   width:98px;
   height:56px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u7 {
+  border-width:0px;
+  position:absolute;
+  left:1139px;
+  top:324px;
+  width:184px;
+  height:61px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
